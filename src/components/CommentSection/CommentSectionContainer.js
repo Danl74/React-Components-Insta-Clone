@@ -14,7 +14,7 @@ console.log(props, 'this one');
       )
       }
       {/* map through the comments data and return the Comment component */}
-      <CommentInput />
+      <CommentImput />
     </div>
   );
 };
